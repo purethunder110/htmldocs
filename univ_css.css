@@ -1,0 +1,7 @@
+body{background-color: aquamarine;color:red;}
+div{border-radius:3}
+#header_1{background-image:url(/media/header_1.jpg);background-size:cover;background-position: center; color: red;font-family: 'Times New Roman', Times, serif;}
+#header_2{background-image: url(/media/header_2.jpg);font-family: 'Courier New', Courier, monospace,sans-serif;color:blueviolet}
+#header_3{background-image: url(/media/header-3.jpg);font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+html  {color: black;font-family: 'Courier New', Courier, monospace,sans-serif;}
