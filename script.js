@@ -2,7 +2,10 @@ var auth= {
     "name":"admin",
     "pass":"1234",
     "account_no":"124589",
+    "account_name":"Aniket Yadav",
+    "acc_type":"Savings",
     "amount":"6258",
+    "CC_no":"1258 6987 1447 7411"
 };
 
 function setcookies(form_a){
@@ -31,7 +34,7 @@ function check(form)
     var t=setcookies(form);
     if (t==true)
     {
-        window.location.href="http://localhost/welcome_main.html";
+        window.location.href="http://localhost/bank_bal.html";
     }
     else
     {
